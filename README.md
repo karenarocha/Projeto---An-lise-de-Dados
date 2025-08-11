@@ -1,5 +1,3 @@
-# Projeto- Análise de Dados
-
 # 📊 Imersão de Dados com Python - Alura
 
 Projeto desenvolvido durante a **Imersão de Dados com Python** da [Alura](https://www.alura.com.br/), com foco em análise, limpeza, visualização e criação de dashboards interativos.
@@ -23,5 +21,4 @@ Projeto desenvolvido durante a **Imersão de Dados com Python** da [Alura](https
 - Visualização de dados com **Seaborn**, **Matplotlib** e **Plotly**
 - Criação de **Dashboard interativo** com **Streamlit**
 
-## 📂 Estrutura do Projeto
 
